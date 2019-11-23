@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am richorca on github.
+  * I am richorca (https://keybase.io/richorca) on keybase.
+  * I have a public key ASBUXXaGYCSPbgsGhcDBAhFpBZhSyUvvzarG7Y3lKgy-RQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120545d768660248f6e0b0685c0c1021169059852c94befcdaac6ed8de52a0cbe450a",
+      "host": "keybase.io",
+      "kid": "0120545d768660248f6e0b0685c0c1021169059852c94befcdaac6ed8de52a0cbe450a",
+      "uid": "3e30aa4b66d2fba430d5ae02037f1d19",
+      "username": "richorca"
+    },
+    "merkle_root": {
+      "ctime": 1574501079,
+      "hash": "bc5b9b97879c040abc33f393bffe0e1f46f960532c01ce7c7bc46f7e3a61d2e18f3b3e425e440a6dc341ba30ccefa3f6d68c75d6fe98e2995d470009bb2cc2d8",
+      "hash_meta": "520566972153cc3527eb7383685f34202828e20ca75ad711dbd02ffb6b5ec457",
+      "seqno": 10583469
+    },
+    "service": {
+      "entropy": "R72jo4/8qQ+pDruYAVmMPobN",
+      "name": "github",
+      "username": "richorca"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574501112,
+  "expire_in": 504576000,
+  "prev": "600393c5909eeda49c27a3adb9b73a82e6ade41bcb7014fa70ba2daa6455f5c3",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBUXXaGYCSPbgsGhcDBAhFpBZhSyUvvzarG7Y3lKgy-RQo](https://keybase.io/richorca), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVF12hmAkj24LBoXAwQIRaQWYUslL782qxu2N5SoMvkUKp3BheWxvYWTESpcCBMQgYAOTxZCe7aScJ6Otubc6guat5BvLcBT6cLotqmRV9cPEIP5UzhL8yOlU14wJRyxN6N9Z2qqTVKGf72kwcahTmmTiAgHCo3NpZ8RAP4EuUXTVyWQfpU2o6nAE/oV/74sHGhWoavMokuUjBzCU3yZxoBeyO2Ow9t3eTMPkjPHEMP3g56I5i3sMdGMuCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEU1eiGzvSTbOp/XgBM0R2M2tyLy1/gF/woUJhHGGFFqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/richorca
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id richorca
+```
